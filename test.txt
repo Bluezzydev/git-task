@@ -1,8 +1,6 @@
  this line was added by interen a and pushed to bare repo
  this line added by intern b and pushed to both repo
-<<<<<<< HEAD
 this 3rd line add by intern a 
-=======
 this line add from gitub to have cobflict
 try acces 
->>>>>>> c7cd1d9629e30489e3c5243a99933007549e1f28
+
